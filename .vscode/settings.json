@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "algrodim",
+        "createposts",
+        "fastapi",
+        "ondelete",
+        "psycopg",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "new_connection",
+            "database": "book_shop",
+            "username": "root"
+        }
+    ]
+}
